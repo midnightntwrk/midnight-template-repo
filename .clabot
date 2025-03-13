@@ -1,6 +1,3 @@
 {
-  "contributors": "",
-  "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have  on file. In order for us to review and merge your code, please contact @MB-IOHK to get yourself added.",
-  "label": "Test-custom-lable",
-  "recheckComment": "Test-recheck-comment"
+  "contributors": ["kapke"]
 }
