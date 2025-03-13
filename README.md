@@ -1,7 +1,7 @@
 # Midnight Template Repo
 
-# Midnight template repo:
-CLA bot - checks whether contributors have signed Contributor Licence Agreements (CLAs). 
+# CLA Bot
+  Checks whether contributors have signed Contributor Licence Agreements (CLAs). 
 
 # CODEOWNERS
   Change code owners accordingly
