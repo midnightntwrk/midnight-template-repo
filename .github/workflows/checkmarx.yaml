@@ -77,7 +77,7 @@ jobs:
           cx_client_id: ${{ secrets.CX_CLIENT_ID }}
           cx_client_secret: ${{ secrets.CX_CLIENT_SECRET_EU }}
           
-          # Threshold values may need to be adjusted periodically 
+          # Threshold values may need to be adjusted
           # additional_params: --threshold "sast-high=0;sca-high=0;sca-medium=0;apis-high=0;apis-medium=0;ioc-high=0;ioc-medium=0"
           
           additional_params: --scs-repo-url https://github.com/midnightntwrk/midnight-template-repo/ --scs-repo-token ${{ secrets.MIDNIGHTCI_REPO }} --report-format sarif --output-path .
