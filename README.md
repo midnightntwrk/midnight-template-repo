@@ -1,5 +1,8 @@
 # Midnight Template Repo
 
+# License
+  The default license is Apache 2
+  
 # CLA Bot
   Checks whether contributors have signed Contributor Licence Agreements (CLAs). 
 
