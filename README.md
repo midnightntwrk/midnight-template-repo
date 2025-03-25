@@ -11,4 +11,4 @@
 
 # checkmarx.yaml
   Check and adjust default branch name (not requiered if 'main')
-  Adjust repository name in the URL  - additional_params: --scs-repo-url https://github.com/midnightntwrk/<REPO NAME>/ --scs-repo-token ${{ secrets.MIDNIGHTCI_REPO }} --report-format sarif --output-path .
+  Adjust repository name in the URL  - additional_params: --scs-repo-url https://github.com/midnightntwrk/<REPO NAME>/ --scs-repo-token ${{ secrets.MIDNIGHTCI_REPO }}
