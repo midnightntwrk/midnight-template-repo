@@ -4,7 +4,7 @@
   The default license is Apache 2
   
 ## CLA Assistant
-  Checks whether contributors have signed Contributor Licence Agreements (CLAs) 
+  Checks whether contributors have signed Contributor Licence Agreements 
 
 ## CODEOWNERS
   Change code owners accordingly
