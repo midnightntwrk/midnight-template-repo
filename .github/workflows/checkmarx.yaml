@@ -31,21 +31,21 @@ jobs:
           cat <<'EOF' > scrape_checkmarx.py
           import requests
           from bs4 import BeautifulSoup
-          
+
           # URL of the status page
           url = "https://eu2-status.ast.checkmarx.net/"
-          
+
           try:
               # Send a GET request to fetch the HTML content
               response = requests.get(url)
               response.raise_for_status()  # Check for request errors
-          
+
               # Parse the HTML content
               soup = BeautifulSoup(response.text, 'html.parser')
-          
+
               # Locate the status element based on its HTML structure
               status_element = soup.find('aside', class_='operational state-bar')
-          
+
               # Check if the status is operational
               if status_element and 'Operating Normally' in status_element.text:
                   print("The status is operational with status")
