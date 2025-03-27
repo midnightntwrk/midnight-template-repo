@@ -33,6 +33,9 @@ The Midnight Foundation appreciates contributions, and like many other open sour
 License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamlines the CLA
 signing process, enabling contributors to sign our CLAs directly within a GitHub pull request.
 
+### Dependabot
+The Midnight Foundation uses GitHub Dependabot feature to keep our projects dependencies up-to-date and address potential security vulnerabilities. 
+
 ### Checkmarx
 
 The Midnight Foundation uses Checkmarx for application security (AppSec) to identify and fix security vulnerabilities.
@@ -45,6 +48,10 @@ After copying the repository template owners should review and change the follow
 ### CODEOWNERS
 
 Change code owners accordingly.
+
+### dependabot.yaml
+
+Check and adjust according to repo needs, a few samples provided in the file.
 
 ### checkmarx.yaml
 
