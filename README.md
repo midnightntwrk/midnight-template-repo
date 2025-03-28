@@ -1,4 +1,4 @@
-# Midnight Template Repo
+# Midnight Template Repository
 
 This GitHub repository should be used as a template when createing a new Midnight GitHub reppository.
 The template is configured with default repository settings and a set of default files that are expected to exist in all Midnight GitHub reppositories.
@@ -15,9 +15,13 @@ Provides a brief description for users and developers who want to understand the
 
 Provides a brief description of the Midnight Foundation's security policy and how to properly disclose security issues.
 
-### SECURITY.md
+### SUPPORT.md
 
-Provides a brief description of the Midnight Foundation's security policy and how to properly disclose security issues.
+Outlines the ways users can get help or support for a Midnight project.
+
+### CONTRIBUTING.md
+
+Provides guidelines for how people can contribute to the Midnight project.
 
 ### CODEOWNERS
 
@@ -27,6 +31,10 @@ Defines repository ownership rules.
 
 Provides templates for reporting various types of issues, such as: bug report, documentation improvement and feature request.
 
+### PULL_REQUEST_TEMPLATE
+
+Provides a template for a pull request.
+
 ### CLA Assistant
 
 The Midnight Foundation appreciates contributions, and like many other open source projects asks contiributors to sign a contributor
@@ -34,12 +42,17 @@ License Agreement before accepting contributions. We use CLA assistant (https://
 signing process, enabling contributors to sign our CLAs directly within a GitHub pull request.
 
 ### Dependabot
+
 The Midnight Foundation uses GitHub Dependabot feature to keep our projects dependencies up-to-date and address potential security vulnerabilities. 
 
 ### Checkmarx
 
 The Midnight Foundation uses Checkmarx for application security (AppSec) to identify and fix security vulnerabilities.
 All repositories are scanned with Checkmarx's suite of tools including: Static Application Security Testing (SAST), Infrastructure as Code (IaC), Software Composition Analysis (SCA), API Security, Container Security and Supply Chain Scans (SCS).
+
+### Unito
+
+Facilitates two-way data synchronization, automated workflows and streamline processes between: Jira, GitHub issues and Github project Kanban board. 
 
 # TODO
 
