@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-about: Describe this issue template's purpose here.
+name: Bug report
+about: Submit a bug report
 title: ""
 labels: midnight-template-repo, public
 assignees: ""
