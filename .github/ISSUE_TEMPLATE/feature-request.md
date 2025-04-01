@@ -1,6 +1,6 @@
 ---
-name: Feature Request
-about: Describe this issue template's purpose here.
+name: Feature request
+about: Submit a proposal for a new Midnight template repository feature
 title: ""
 labels: midnight-template-repo, public
 assignees: ""

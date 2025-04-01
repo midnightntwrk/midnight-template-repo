@@ -1,6 +1,6 @@
 ---
-name: Documentation Improvement
-about: Describe this issue template's purpose here.
+name: Documentation improvement
+about: Report a problem with the documentation
 title: ""
 labels: midnight-template-repo, public
 assignees: ""
