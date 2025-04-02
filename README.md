@@ -1,6 +1,6 @@
 # Midnight Template Repository
 
-This GitHub repository should be used as a template when createing a new Midnight GitHub reppository.
+This GitHub repository should be used as a template when creating a new Midnight GitHub reppository.
 The template is configured with default repository settings and a set of default files that are expected to exist in all Midnight GitHub reppositories.
 
 ### LICENSE
