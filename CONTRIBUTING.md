@@ -16,6 +16,5 @@ Clearly describe the improvement requested for existing content and/or raise mis
 Clearly describe your feature, its benefits, and most important the expected outcome. This helps us analyze the proposed solution and develop alternatives
 
 ## Any Questions? 
-Ask anything about Midnight! We're here to help. Connect with us on [Discord], [Telegram], and [Twitter] and Join the Community to stay updated and engage with other Midnight enthusiasts.
-
+Ask anything about Midnight! We're here to help. Connect with us on [Discord](https://discord.com/invite/midnightnetwork), [Telegram](https://t.me/Midnight_Network_Official), and [Twitter](https://x.com/MidnightNtwrk) and Join the Community to stay updated and engage with other Midnight enthusiasts.
 We appreciate your contributions!
