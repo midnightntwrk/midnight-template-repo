@@ -22,14 +22,14 @@ Ensure the title is a clear summary of the requirement and provides enough conte
 
 ## Code Contribution Process
 
-**Pull Requests:** Code contributions are submitted via Pull Requests.
-**Fork the Repository:** Create your own fork of the Midnight repository.
-**Create a Branch:** Make your changes in a separate branch.
-**Follow Coding Standards:** Adhere to the coding style guides specified in our documentation.
-**Write Tests:** Include unit tests and integration tests to cover your changes.
-**Commit Messages:** Write clear and concise commit messages.
-**Submit Pull Request:** Submit your pull request to the appropriate branch in the main repository.
-**Code Review:** All pull requests undergo code review by project maintainers. Be prepared to address feedback from reviewers.
+* **Pull Requests:** Code contributions are submitted via Pull Requests.
+* **Fork the Repository:** Create your own fork of the Midnight repository.
+* **Create a Branch:** Make your changes in a separate branch.
+* **Follow Coding Standards:** Adhere to the coding style guides specified in our documentation.
+* **Write Tests:** Include unit tests and integration tests to cover your changes.
+* **Commit Messages:** Write clear and concise commit messages.
+* **Submit Pull Request:** Submit your pull request to the appropriate branch in the main repository.
+* **Code Review:** All pull requests undergo code review by project maintainers. Be prepared to address feedback from reviewers.
 
 ## Requirements for Acceptable Contributions:
 
