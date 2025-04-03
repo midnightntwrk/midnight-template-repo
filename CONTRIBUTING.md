@@ -10,7 +10,7 @@ We welcome your contributions to the Midnight network! By contributing, you'll p
 
 ## Submitting Issues
 
-Use one of the [templates](https://github.com/midnightntwrk/midnight-template-repo/issues/new/choose) to submit an issue to the Project Board. The Midnight team or a community member will address it if it's relevant.
+Use one of the [templates] to submit an issue to the Project Board. The Midnight team or a community member will address it if it's relevant.
 Ensure the title is a clear summary of the requirement and provides enough context.
 
 **Issue Types:**
