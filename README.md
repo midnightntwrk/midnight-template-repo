@@ -1,3 +1,5 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10381/badge)](https://www.bestpractices.dev/projects/10381)
+
 # Midnight Template Repository
 
 This GitHub repository should be used as a template when createing a new Midnight GitHub reppository.
