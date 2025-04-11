@@ -1,6 +1,6 @@
 # Midnight Template Repository
 
-This GitHub repository should be used as a template when createing a new Midnight GitHub reppository.
+This GitHub repository should be used as a template when creating a new Midnight GitHub repository.
 The template is configured with default repository settings and a set of default files that are expected to exist in all Midnight GitHub repositories.
 
 ### LICENSE
@@ -33,8 +33,8 @@ Provides a template for a pull request.
 
 ### CLA Assistant
 
-The Midnight Foundation appreciates contributions, and like many other open source projects asks contiributors to sign a contributor
-License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamlines the CLA
+The Midnight Foundation appreciates contributions, and like many other open source projects asks contributors to sign a contributor
+License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamline the CLA
 signing process, enabling contributors to sign our CLAs directly within a GitHub pull request.
 
 ### Dependabot
