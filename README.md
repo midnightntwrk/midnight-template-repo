@@ -1,6 +1,6 @@
 # Midnight Template Repository
 
-This GitHub repository should be used as a template when createing a new Midnight GitHub reppository.
+This GitHub repository should be used as a template when creating a new Midnight GitHub repository.
 The template is configured with default repository settings and a set of default files that are expected to exist in all Midnight GitHub repositories.
 
 ### LICENSE
@@ -14,10 +14,6 @@ Provides a brief description for users and developers who want to understand the
 ### SECURITY.md
 
 Provides a brief description of the Midnight Foundation's security policy and how to properly disclose security issues.
-
-### SUPPORT.md
-
-Outlines the ways users can get help or support for a Midnight project.
 
 ### CONTRIBUTING.md
 
@@ -37,8 +33,8 @@ Provides a template for a pull request.
 
 ### CLA Assistant
 
-The Midnight Foundation appreciates contributions, and like many other open source projects asks contiributors to sign a contributor
-License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamlines the CLA
+The Midnight Foundation appreciates contributions, and like many other open source projects asks contributors to sign a contributor
+License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamline the CLA
 signing process, enabling contributors to sign our CLAs directly within a GitHub pull request.
 
 ### Dependabot
@@ -54,24 +50,7 @@ All repositories are scanned with Checkmarx's suite of tools including: Static A
 
 Facilitates two-way data synchronization, automated workflows and streamline processes between: Jira, GitHub issues and Github project Kanban board. 
 
-# TODO
-
-After copying the repository template owners should review and change the following:
-
-### CODEOWNERS
-
-Change code owners accordingly.
-
-### dependabot.yaml
-
-Check and adjust according to repo needs, a few samples provided in the file.
-
-### checkmarx.yaml
-
-Check and adjust:
-
-1. Default branch name (not requiered if default branch name is 'main').
-2. Repository name in the URL "additional_params: --scs-repo-url https://github.com/midnightntwrk/midnight-template-repo --scs-repo-token ${{ secrets.MIDNIGHTCI_REPO }}".
+# TODO - New Repo Owner
 
 ### Software Package Data Exchange (SPDX)
 Include the following Software Package Data Exchange (SPDX) short-form identifier in a comment at the top headers of each source code file.
