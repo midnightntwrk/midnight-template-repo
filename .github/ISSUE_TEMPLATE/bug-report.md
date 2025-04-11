@@ -6,12 +6,24 @@ labels: midnight-template-repo, public
 assignees: ""
 ---
 
-Bug Report: Provide detailed information about the issue, including steps to reproduce it, expected behavior, and actual behaviour, screenshots or any other relevant information
+### Context & versions:
 
-#### Describe what the problem is
+<!-- Explain your setup and what versions have been used. --> 
 
-#### What should be the expected behavior or results?
+### Steps to reproduce:
 
-#### What was the actual behavior or results?
+<!--
+  1. Prepared x
+  2. Started y
+  3. Submitted z
 
-#### Provide any other clarifying details that would help in reproducing or identifying the issue
+  If not reproducible, describe the steps you took as you remember it.
+-->
+
+### Actual behavior:
+
+<!-- A description of the (reproducible) outcome. -->
+
+### Expected behavior:
+
+<!-- A description of what you expect to happen instead. -->
