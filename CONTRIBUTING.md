@@ -55,7 +55,7 @@ Ensure the title is a clear summary of the requirement and provides enough conte
 // limitations under the License.
 ```
 
-Where this is not possible, a `LICENSE.md` file in the same directory is required.
+Where this is not possible, a copy of the Apache 2.0 license or the repository's top-level LICENSE file in the same directory is required
 
 ## Support and Communication:
 
