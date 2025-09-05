@@ -33,11 +33,11 @@ jobs:
         uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8
         with:
           repository: midnightntwrk/upload-sarif-github-action
-          ref: 78abd6e4c6b7d15715ab641fff5ed6fa4751dd53
+          ref: 0b4ad9b5eba2b43e18a969aee2b8518d8af6a68e
           path: upload-sarif-github-action
           token: ${{ secrets.MIDNIGHTCI_REPO }}
 
-      # Once public, can simplify to: uses: midnightntwrk/upload-sarif-github-action/checkmarx-scan@46581f193c493f6bf464cca059dd7f4238307373
+      # Once public, can simplify to: uses: midnightntwrk/upload-sarif-github-action/checkmarx-scan@0b4ad9b5eba2b43e18a969aee2b8518d8af6a68e
       - name: Checkmarx Full Scan
         uses: ./upload-sarif-github-action/checkmarx-scan
         with:
