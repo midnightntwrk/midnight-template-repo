@@ -39,7 +39,7 @@ signing process, enabling contributors to sign our CLAs directly within a GitHub
 
 ### Dependabot
 
-The Midnight Foundation uses GitHub Dependabot feature to keep our projects dependencies up-to-date and address potential security vulnerabilities. 
+The Midnight Foundation uses GitHub Dependabot feature to keep our projects dependencies up-to-date and address potential security vulnerabilities.
 
 ### Checkmarx
 
@@ -48,7 +48,7 @@ All repositories are scanned with Checkmarx's suite of tools including: Static A
 
 ### Unito
 
-Facilitates two-way data synchronization, automated workflows and streamline processes between: Jira, GitHub issues and Github project Kanban board. 
+Facilitates two-way data synchronization, automated workflows and streamline processes between: Jira, GitHub issues and Github project Kanban board.
 
 # TODO - New Repo Owner
 
@@ -63,7 +63,7 @@ Include the following Software Package Data Exchange (SPDX) short-form identifie
  // You may not use this file except in compliance with the License.<BR>
  // You may obtain a copy of the License at<BR>
  //<BR>
- //	http://www.apache.org/licenses/LICENSE-2.0<BR>
+ //	https://www.apache.org/licenses/LICENSE-2.0<BR>
  //<BR>
  // Unless required by applicable law or agreed to in writing, software<BR>
  // distributed under the License is distributed on an "AS IS" BASIS,<BR>
