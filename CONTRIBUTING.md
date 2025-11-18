@@ -2,7 +2,7 @@
 
 We welcome your contributions to the Midnight network! By contributing, you'll play a vital role in shaping the future of a blockchain focused on data privacy.
 
-### Contributor License Agreement
+## Contributor License Agreement
 
 Like many other open source projects, we ask contributors to sign a contributor
 License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamline the CLA
@@ -49,7 +49,7 @@ Ensure the title is a clear summary of the requirement and provides enough conte
 * **License:** All contributions must be compatible with the project's license.
   Where possible all files should have this license header:
 
-```
+```ts
 // This file is part of <REPLACE WITH REPOSITORY NAME>.
 // Copyright (C) 2025 Midnight Foundation
 // SPDX-License-Identifier: Apache-2.0
