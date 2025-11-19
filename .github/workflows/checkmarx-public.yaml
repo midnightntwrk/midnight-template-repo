@@ -3,6 +3,11 @@ name: Checkmarx One Scan (Public Repos)
 # use only job-level permissions
 permissions: {}
 
+#
+# NOTE: This workflow runs from `main`. 
+# When open sourcing a repo it will need to be
+# merged to main before it can be successful against a PR.
+#
 on:
   pull_request_target:  # Safe for public repos with fork PRs (doesn't checkout PR code)
     types: [opened, synchronize, reopened]
