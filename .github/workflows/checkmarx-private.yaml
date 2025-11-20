@@ -41,7 +41,7 @@ jobs:
           echo "//npm.pkg.github.com/:_authToken=${{ secrets.MIDNIGHTCI_REPO }}" >> .npmrc
 
       - name: Checkmarx Full Scan
-        uses: midnightntwrk/upload-sarif-github-action/checkmarx-scan@1cb8d9377f78e905e4c8a905b3cebc51deff3e47
+        uses: midnightntwrk/upload-sarif-github-action/checkmarx-scan@1cb8d938a59278c75debcba914519ee0bcf8cc9c
         with:
           cx-client-id: ${{ secrets.CX_CLIENT_ID }}
           cx-client-secret: ${{ secrets.CX_CLIENT_SECRET_EU }}
