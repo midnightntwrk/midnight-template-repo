@@ -15,7 +15,8 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
+  scan:
+    name: "scan"
     runs-on: ubuntu-latest
     permissions:
       actions: read
