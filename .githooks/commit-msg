@@ -1,0 +1,14 @@
+#!/bin/sh
+# .githooks/commit-msg — require a DCO (Signed-off-by) trailer
+
+# Merge commits get an auto-generated message; don't block them.
+if git rev-parse -q --verify MERGE_HEAD >/dev/null 2>&1; then
+	exit 0
+fi
+
+if ! git stripspace --strip-comments <"$1" | grep -qE '^Signed-off-by: .+ <.+@.+>'; then
+	echo 'Missing DCO (no "Signed-off-by:" trailer in commit message)' >&2
+	echo "By signing off your commit you agree to the Developer Certificate of Origin: https://developercertificate.org/" >&2
+	echo "Use: git commit -s" >&2
+	exit 1
+fi
